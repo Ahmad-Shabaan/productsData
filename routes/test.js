@@ -4,8 +4,8 @@ const myTest = [
   {
     id: 100001,
     name: "Men",
-    products: {
-      product: {
+    products: [
+      {
         id: 1,
         name: "",
         description: "",
@@ -28,7 +28,7 @@ const myTest = [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515762/Jammal/MEN/Product/IMG_5612_dywjcs.jpg",
         ],
       },
-      product: {
+      {
         id: 2,
         name: "",
         description: "",
@@ -47,7 +47,7 @@ const myTest = [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515765/Jammal/MEN/Product/IMG_5617_ukxdep.jpg",
         ],
       },
-      product: {
+      {
         id: 3,
         name: "",
         description: "",
@@ -70,7 +70,7 @@ const myTest = [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
         ],
       },
-      product: {
+      {
         id: 4,
         name: "",
         description: "",
@@ -78,7 +78,7 @@ const myTest = [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482866/Jammal/MEN/JPkXChVDZE7na2TWXgfAVDQzijzj6w68dGvyrFVz_t5mkki.jpg",
         editedImages: ["1", "2"],
       },
-      product: {
+      {
         id: 5,
         name: "",
         description: "",
@@ -87,7 +87,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 6,
         name: "",
         description: "",
@@ -96,7 +96,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 7,
         name: "",
         description: "",
@@ -105,7 +105,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 8,
         name: "",
         description: "",
@@ -114,7 +114,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 9,
         name: "",
         description: "",
@@ -123,7 +123,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 10,
         name: "",
         description: "",
@@ -132,7 +132,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 11,
         name: "",
         description: "",
@@ -141,7 +141,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 12,
         name: "",
         description: "",
@@ -150,7 +150,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 13,
         name: "",
         description: "",
@@ -159,7 +159,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 14,
         name: "",
         description: "",
@@ -168,7 +168,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 15,
         name: "",
         description: "",
@@ -177,7 +177,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 16,
         name: "",
         description: "",
@@ -186,7 +186,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 17,
         name: "",
         description: "",
@@ -195,7 +195,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 18,
         name: "",
         description: "",
@@ -204,7 +204,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 19,
         name: "",
         description: "",
@@ -213,7 +213,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 20,
         name: "",
         description: "",
@@ -222,14 +222,14 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-    },
+    ],
   },
 
   {
     id: 100002,
     name: "Women",
-    products: {
-      product: {
+    products: [
+      {
         id: 1,
         name: "تيشرت أوفر سايز مخطط",
         description:
@@ -245,7 +245,7 @@ const myTest = [
           "",
         ],
       },
-      product: {
+      {
         id: 2,
         name: "جيبه zebra",
         description: "جيبه zebra  الخامه اسكوبا كريب المقاس وان سيز ل ٨٠ك",
@@ -255,7 +255,7 @@ const myTest = [
         editedImages: ["1", "2"],
         normalImages: ["1", "2"],
       },
-      product: {
+      {
         id: 3,
         name: "",
         description:
@@ -268,7 +268,7 @@ const myTest = [
         ],
         normalImages: ["1", "2"],
       },
-      product: {
+      {
         id: 4,
         name: "",
         description: "",
@@ -279,7 +279,7 @@ const myTest = [
           "2",
         ],
       },
-      product: {
+      {
         id: 5,
         name: "",
         description: "",
@@ -295,7 +295,7 @@ const myTest = [
         ],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 6,
         name: "",
         description: "",
@@ -307,68 +307,55 @@ const myTest = [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483399/Jammal/Women/Product/83248_s9ogfa.jpg",
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483389/Jammal/Women/Product/85197_r4wjjb.jpg",
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483411/Jammal/Women/Product/7997_qen13k.jpg",
-          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483422/Jammal/Women/Product/23496_au7lsv.jpg"
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483422/Jammal/Women/Product/23496_au7lsv.jpg",
         ],
         normalImages: ["", ""],
       },
-    },
+    ],
   },
 
   {
     id: 100003,
     name: "children",
-    products: {
-      product: {
+    products: [
+      {
         id: 1,
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
+      {
         id: 2,
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
         editedImages: ["1", "2"],
         normalImages: ["1", "2"],
       },
-      product: {
+      {
         id: 3,
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
         editedImages: ["1", "2"],
         normalImages: ["1", "2"],
       },
-      product: {
+      {
         id: 4,
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
         editedImages: ["1", "2"],
       },
-      product: {
+      {
         id: 5,
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483151/Jammal/MEN/40If2mw36SGk7ySxxwxtenhmOLCNIqcc7OabfLqr_vslzzd.jpg",
         editedImages: ["1", "2"],
         normalImages: ["", ""],
       },
-      product: {
-        id: 6,
-        image:
-          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483124/Jammal/MEN/sRm4wGJsiu29O26UFhUMiFFwRICCcrLfZ5wcnuL6_fvkxpv.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
-      },
-      product: {
-        id: 7,
-        image:
-          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483111/Jammal/MEN/N4oNFKvxZYPlZhWA1JMKoohZRKWURezt0ztcZoPM_xthkng.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
-      },
-    },
+    ],
   },
 ];
+
 router.get("/test", (req, res) => {
   res.send(myTest);
 });
