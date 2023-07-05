@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const test = [
+const myTest = [
   {
     id: 100001,
     name: "Men",
@@ -369,8 +369,8 @@ const test = [
     },
   },
 ];
-router.get("/ads", (req, res) => {
-  res.send(test);
+router.get("/test", (req, res) => {
+  res.send(myTest);
 });
 
 module.exports = router;
