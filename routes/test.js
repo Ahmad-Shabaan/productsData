@@ -77,7 +77,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482866/Jammal/MEN/JPkXChVDZE7na2TWXgfAVDQzijzj6w68dGvyrFVz_t5mkki.jpg",
-        editedImages: ["1", "2"],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 5,
@@ -85,8 +100,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482878/Jammal/MEN/EwO9XFJOL03PxifZHNRAnESDSP7CsltpwmVw24gg_qddwjn.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 6,
@@ -94,8 +123,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482893/Jammal/MEN/rVJ5Z4UOKavPQYmt7fSEx56kHQ54Qo0fUr8L3wZB_sulejm.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 7,
@@ -103,8 +146,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482924/Jammal/MEN/nFdoi6sPQCwaCdHkAfXGZ8zQhDPFpFpRp6j4IxQ9_ntngst.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 8,
@@ -112,8 +169,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482936/Jammal/MEN/oO334uMkLXhqGgqEuVsmYLOqcNXaPIfd78GhnOj4_kryisy.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 9,
@@ -121,8 +192,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482952/Jammal/MEN/yQje15SzkOGslbQ6dIiLmUwaov95U9zKjEmYH6AA_junrvn.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 10,
@@ -130,8 +215,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483074/Jammal/MEN/sZWMi3xU3cqTmc8Z4EhqCNPJ63aF9QH9gSTj9njp_tzit4n.png",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 11,
@@ -139,8 +238,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483081/Jammal/MEN/B4udDZzU8VAWxikPE2wDh8O8PpefRjNmlzuTb9Pv_arbg3p.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 12,
@@ -148,8 +261,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482924/Jammal/MEN/nFdoi6sPQCwaCdHkAfXGZ8zQhDPFpFpRp6j4IxQ9_ntngst.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 13,
@@ -157,8 +284,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483097/Jammal/MEN/e6NJHfdeGypdtqXPYvoTTkFIb2nDDt7kL0zZDl1F_gy9zjx.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 14,
@@ -166,8 +307,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483111/Jammal/MEN/N4oNFKvxZYPlZhWA1JMKoohZRKWURezt0ztcZoPM_xthkng.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 15,
@@ -175,8 +330,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483124/Jammal/MEN/sRm4wGJsiu29O26UFhUMiFFwRICCcrLfZ5wcnuL6_fvkxpv.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 16,
@@ -184,8 +353,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483151/Jammal/MEN/40If2mw36SGk7ySxxwxtenhmOLCNIqcc7OabfLqr_vslzzd.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 17,
@@ -193,8 +376,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 18,
@@ -202,8 +399,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 19,
@@ -211,8 +422,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 20,
@@ -220,8 +445,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
     ],
   },
@@ -239,11 +478,11 @@ const myTest = [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483297/Jammal/Women/YQlA9bcdlpxi13ZLeOjbYq6HWXHuM6zbZw7qRTRe_eto815.jpg",
         editedImages: [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483297/Jammal/Women/YQlA9bcdlpxi13ZLeOjbYq6HWXHuM6zbZw7qRTRe_eto815.jpg",
-          "2",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483297/Jammal/Women/YQlA9bcdlpxi13ZLeOjbYq6HWXHuM6zbZw7qRTRe_eto815.jpg",
         ],
         normalImages: [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483297/Jammal/Women/YQlA9bcdlpxi13ZLeOjbYq6HWXHuM6zbZw7qRTRe_eto815.jpg",
-          "",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483297/Jammal/Women/YQlA9bcdlpxi13ZLeOjbYq6HWXHuM6zbZw7qRTRe_eto815.jpg",
         ],
       },
       {
@@ -253,8 +492,14 @@ const myTest = [
 
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483304/Jammal/Women/xvGsR3GLoRrXhNeabjME6q8Za1XWTQHu6MXkssXO_zp3vvc.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["1", "2"],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483304/Jammal/Women/xvGsR3GLoRrXhNeabjME6q8Za1XWTQHu6MXkssXO_zp3vvc.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483304/Jammal/Women/xvGsR3GLoRrXhNeabjME6q8Za1XWTQHu6MXkssXO_zp3vvc.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483304/Jammal/Women/xvGsR3GLoRrXhNeabjME6q8Za1XWTQHu6MXkssXO_zp3vvc.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483304/Jammal/Women/xvGsR3GLoRrXhNeabjME6q8Za1XWTQHu6MXkssXO_zp3vvc.jpg",
+        ],
       },
       {
         id: 103,
@@ -265,9 +510,12 @@ const myTest = [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483311/Jammal/Women/T4uku2tcdcSPlpGCqPsq43umjVakAo6GUscUFy9i_zzgxbh.jpg",
         editedImages: [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483311/Jammal/Women/T4uku2tcdcSPlpGCqPsq43umjVakAo6GUscUFy9i_zzgxbh.jpg",
-          "2",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483304/Jammal/Women/xvGsR3GLoRrXhNeabjME6q8Za1XWTQHu6MXkssXO_zp3vvc.jpg",
         ],
-        normalImages: ["1", "2"],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483304/Jammal/Women/xvGsR3GLoRrXhNeabjME6q8Za1XWTQHu6MXkssXO_zp3vvc.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483304/Jammal/Women/xvGsR3GLoRrXhNeabjME6q8Za1XWTQHu6MXkssXO_zp3vvc.jpg",
+        ],
       },
       {
         id: 104,
@@ -277,7 +525,11 @@ const myTest = [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483318/Jammal/Women/7xXdfB2BynLY9PCSghen5jqazxD284qA8XY5GEfc_po9msp.jpg",
         editedImages: [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483318/Jammal/Women/7xXdfB2BynLY9PCSghen5jqazxD284qA8XY5GEfc_po9msp.jpg",
-          "2",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483318/Jammal/Women/7xXdfB2BynLY9PCSghen5jqazxD284qA8XY5GEfc_po9msp.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483318/Jammal/Women/7xXdfB2BynLY9PCSghen5jqazxD284qA8XY5GEfc_po9msp.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483318/Jammal/Women/7xXdfB2BynLY9PCSghen5jqazxD284qA8XY5GEfc_po9msp.jpg",
         ],
       },
       {
@@ -294,7 +546,10 @@ const myTest = [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483494/Jammal/Women/Product/40974_x4d4y9.jpg",
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483502/Jammal/Women/Product/71017_dc6xul.jpg",
         ],
-        normalImages: ["", ""],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483325/Jammal/Women/Naz1K1igX8lCykX60kogav3ar3Iv59NnsCgZ8sdc_pkj1e1.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483325/Jammal/Women/Naz1K1igX8lCykX60kogav3ar3Iv59NnsCgZ8sdc_pkj1e1.jpg",
+        ],
       },
       {
         id: 106,
@@ -310,7 +565,10 @@ const myTest = [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483411/Jammal/Women/Product/7997_qen13k.jpg",
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483422/Jammal/Women/Product/23496_au7lsv.jpg",
         ],
-        normalImages: ["", ""],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483411/Jammal/Women/Product/7997_qen13k.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483422/Jammal/Women/Product/23496_au7lsv.jpg",
+        ],
       },
     ],
   },
@@ -356,7 +614,10 @@ const myTest = [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688486841/Jammal/Shoes/Product/12272_m9xk0k.png",
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688486858/Jammal/Shoes/Product/85800_siansn.jpg",
         ],
-        normalImages: ["", ""],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688486841/Jammal/Shoes/Product/12272_m9xk0k.png",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688486858/Jammal/Shoes/Product/85800_siansn.jpg",
+        ],
       },
       {
         id: 302,
@@ -427,8 +688,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
     ],
   },
@@ -522,8 +797,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 602,
@@ -531,8 +820,14 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["1", "2"],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+        ],
       },
       {
         id: 603,
@@ -540,8 +835,14 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["1", "2"],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+        ],
       },
       {
         id: 604,
@@ -549,7 +850,14 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
-        editedImages: ["1", "2"],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+        ],
       },
       {
         id: 605,
@@ -557,8 +865,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483151/Jammal/MEN/40If2mw36SGk7ySxxwxtenhmOLCNIqcc7OabfLqr_vslzzd.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
     ],
   },
@@ -572,8 +894,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 702,
@@ -581,8 +917,14 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["1", "2"],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+        ],
       },
       {
         id: 703,
@@ -590,8 +932,14 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["1", "2"],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+        ],
       },
       {
         id: 704,
@@ -599,7 +947,14 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
-        editedImages: ["1", "2"],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+        ],
       },
       {
         id: 705,
@@ -607,8 +962,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483151/Jammal/MEN/40If2mw36SGk7ySxxwxtenhmOLCNIqcc7OabfLqr_vslzzd.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
     ],
   },
@@ -622,8 +991,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 802,
@@ -631,8 +1014,14 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["1", "2"],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+        ],
       },
       {
         id: 803,
@@ -640,8 +1029,14 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["1", "2"],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+        ],
       },
       {
         id: 804,
@@ -649,7 +1044,14 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
-        editedImages: ["1", "2"],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+        ],
       },
       {
         id: 805,
@@ -657,8 +1059,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483151/Jammal/MEN/40If2mw36SGk7ySxxwxtenhmOLCNIqcc7OabfLqr_vslzzd.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
     ],
   },
@@ -672,8 +1088,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
       {
         id: 902,
@@ -681,8 +1111,14 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["1", "2"],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
+        ],
       },
       {
         id: 903,
@@ -690,8 +1126,14 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["1", "2"],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
+        ],
       },
       {
         id: 904,
@@ -699,7 +1141,14 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
-        editedImages: ["1", "2"],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
+        ],
       },
       {
         id: 905,
@@ -707,8 +1156,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483151/Jammal/MEN/40If2mw36SGk7ySxxwxtenhmOLCNIqcc7OabfLqr_vslzzd.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
     ],
   },
@@ -897,8 +1360,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
     ],
   },
@@ -912,8 +1389,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
     ],
   },
@@ -927,8 +1418,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
     ],
   },
@@ -942,8 +1447,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
     ],
   },
@@ -957,8 +1476,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
     ],
   },
@@ -972,8 +1505,22 @@ const myTest = [
         description: "",
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
-        editedImages: ["1", "2"],
-        normalImages: ["", ""],
+        editedImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
+        normalImages: [
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515763/Jammal/MEN/Product/IMG_5619_viu0ex.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515770/Jammal/MEN/Product/IMG_5620_p5tpmn.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515776/Jammal/MEN/Product/IMG_5621_k0c0mo.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515785/Jammal/MEN/Product/IMG_5623_mk5tgl.jpg",
+          "https://res.cloudinary.com/duc04fwdb/image/upload/v1688515789/Jammal/MEN/Product/IMG_5622_mznb2x.jpg",
+        ],
       },
     ],
   },
