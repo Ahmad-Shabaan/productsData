@@ -1973,7 +1973,14 @@ const myTest = [
       {
         id: 401,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2000,7 +2007,14 @@ const myTest = [
       {
         id: 501,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688487163/Jammal/Bags/7t5bJLWUPMljhv84ColFToftsbbRJtNkUFJQ4dA8_novjwb.jpg",
         editedImages: [
@@ -2020,7 +2034,14 @@ const myTest = [
       {
         id: 502,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688487169/Jammal/Bags/00APGIAzgpAZQJ3Nly9lFB1ktuQdZgTM5xEK82OP_ljjyis.jpg",
         editedImages: [
@@ -2042,7 +2063,14 @@ const myTest = [
       {
         id: 503,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688487177/Jammal/Bags/OFwqPqhbHSKK8dKtdLtnV5ruFSHCQGjPTCjzDYx8_qwuj46.jpg",
         editedImages: [
@@ -2064,7 +2092,14 @@ const myTest = [
       {
         id: 504,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688487186/Jammal/Bags/XsAWsMqxE9lP6paWK1nsTSjRyBW3dLy34NMMAmDG_c3uok7.jpg",
         editedImages: [
@@ -2092,7 +2127,14 @@ const myTest = [
       {
         id: 601,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2113,7 +2155,14 @@ const myTest = [
       {
         id: 602,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
         editedImages: [
@@ -2134,7 +2183,14 @@ const myTest = [
       {
         id: 603,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688749538/Jammal/Holder/loading_fjikc2.jpg",
         editedImages: [
@@ -2155,7 +2211,14 @@ const myTest = [
       {
         id: 604,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
         editedImages: [
@@ -2173,7 +2236,14 @@ const myTest = [
       {
         id: 605,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483151/Jammal/MEN/40If2mw36SGk7ySxxwxtenhmOLCNIqcc7OabfLqr_vslzzd.jpg",
         editedImages: [
@@ -2200,7 +2270,14 @@ const myTest = [
       {
         id: 701,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2221,7 +2298,14 @@ const myTest = [
       {
         id: 702,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
         editedImages: [
@@ -2242,7 +2326,14 @@ const myTest = [
       {
         id: 703,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688749538/Jammal/Holder/loading_fjikc2.jpg",
         editedImages: [
@@ -2263,7 +2354,14 @@ const myTest = [
       {
         id: 704,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
         editedImages: [
@@ -2284,7 +2382,14 @@ const myTest = [
       {
         id: 705,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483151/Jammal/MEN/40If2mw36SGk7ySxxwxtenhmOLCNIqcc7OabfLqr_vslzzd.jpg",
         editedImages: [
@@ -2311,7 +2416,14 @@ const myTest = [
       {
         id: 801,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2332,7 +2444,14 @@ const myTest = [
       {
         id: 802,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
         editedImages: [
@@ -2353,7 +2472,14 @@ const myTest = [
       {
         id: 803,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688749538/Jammal/Holder/loading_fjikc2.jpg",
         editedImages: [
@@ -2374,7 +2500,14 @@ const myTest = [
       {
         id: 804,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
         editedImages: [
@@ -2395,7 +2528,14 @@ const myTest = [
       {
         id: 805,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483151/Jammal/MEN/40If2mw36SGk7ySxxwxtenhmOLCNIqcc7OabfLqr_vslzzd.jpg",
         editedImages: [
@@ -2422,7 +2562,14 @@ const myTest = [
       {
         id: 901,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2443,7 +2590,14 @@ const myTest = [
       {
         id: 902,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
         editedImages: [
@@ -2464,7 +2618,14 @@ const myTest = [
       {
         id: 903,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688749538/Jammal/Holder/loading_fjikc2.jpg",
         editedImages: [
@@ -2485,7 +2646,14 @@ const myTest = [
       {
         id: 904,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
         editedImages: [
@@ -2506,7 +2674,14 @@ const myTest = [
       {
         id: 905,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483151/Jammal/MEN/40If2mw36SGk7ySxxwxtenhmOLCNIqcc7OabfLqr_vslzzd.jpg",
         editedImages: [
@@ -2533,7 +2708,14 @@ const myTest = [
       {
         id: 1001,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688495015/Jammal/Health/IMG_5568_wmdigo.jpg",
         editedImages: [
@@ -2555,7 +2737,14 @@ const myTest = [
       {
         id: 1002,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688495208/Jammal/Health/IMG_5551_r5njjt.jpg",
         editedImages: [
@@ -2575,7 +2764,14 @@ const myTest = [
       {
         id: 1003,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688495192/Jammal/Health/IMG_5556_ud9nbd.jpg",
         editedImages: [
@@ -2602,7 +2798,14 @@ const myTest = [
       {
         id: 1101,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688494624/Jammal/Toys/IMG_5544_rvhikk.jpg",
         editedImages: [
@@ -2623,7 +2826,14 @@ const myTest = [
       {
         id: 1102,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688645915/Jammal/Toys/IzzU9uXNo5kQyEyyp3Hm1jblDbrFc8bVPkS65oDk_ed8ovm.jpg",
         editedImages: [
@@ -2645,7 +2855,14 @@ const myTest = [
       {
         id: 1103,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688645920/Jammal/Toys/tj3awsl36sKHPPXQPwyAYf7i6dr2FqiqpY0FmNZ8_s2jryw.jpg",
         editedImages: [
@@ -2667,7 +2884,14 @@ const myTest = [
       {
         id: 1104,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688645928/Jammal/Toys/ddzgYEtQ6pIA2S4ypXv3wNqLp9neuQW8RaGlzSAe_tpvo6f.jpg",
         editedImages: [
@@ -2688,7 +2912,14 @@ const myTest = [
       {
         id: 1105,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688645940/Jammal/Toys/HPb7tP5f6VM53JaSpQqu8GLjUqGv8l8MZs7MNflf_e6jxja.jpg",
         editedImages: [
@@ -2710,7 +2941,14 @@ const myTest = [
       {
         id: 1106,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688645954/Jammal/Toys/87XvCnsXClw019AIzV2DxhRN2jxKXdq5uapgdr3O_xyxauc.jpg",
         editedImages: [
@@ -2738,7 +2976,14 @@ const myTest = [
       {
         id: 1201,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2765,7 +3010,14 @@ const myTest = [
       {
         id: 1301,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2792,7 +3044,14 @@ const myTest = [
       {
         id: 1401,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2819,7 +3078,14 @@ const myTest = [
       {
         id: 1501,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2846,7 +3112,14 @@ const myTest = [
       {
         id: 1601,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2873,7 +3146,14 @@ const myTest = [
       {
         id: 1701,
         name: "",
-        description: "",
+                description: [
+          "-نعل حقن عالي الجودة",
+          "-وش فوندي مستورد ",
+          "-مريح في اللبس ",
+          "-شيك وعملي جدا جدا ",
+          "-الوان ( اسود-رمادي)",
+          "مقاسات (41-42-43-44-45)",
+        ],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
