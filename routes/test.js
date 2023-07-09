@@ -63,7 +63,7 @@ const myTest = [
           "غير متوفر",
         ],
 
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688511611/Jammal/MEN/IMG_5610_tu6f1p.jpg",
         editedImages: [
@@ -144,7 +144,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688511610/Jammal/MEN/IMG_5609_tvewpl.jpg",
         editedImages: [
@@ -224,7 +224,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688511612/Jammal/MEN/IMG_5608_iyom6o.jpg",
         editedImages: [
@@ -299,7 +299,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688511608/Jammal/MEN/IMG_5607_uxwxrh.jpg",
         editedImages: [
@@ -374,7 +374,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688511608/Jammal/MEN/IMG_5606_rlqb5n.jpg",
         editedImages: [
@@ -449,7 +449,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688511610/Jammal/MEN/IMG_5605_uvrjr9.jpg",
         editedImages: [
@@ -524,7 +524,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688511612/Jammal/MEN/IMG_5604_lt47l4.jpg",
         editedImages: [
@@ -599,7 +599,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482823/Jammal/MEN/ZZGx53DJl2hKNUlWwSJgtWomVAWJc86Mc3Wi5MIu_enudzl.jpg",
         editedImages: [
@@ -674,7 +674,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482866/Jammal/MEN/JPkXChVDZE7na2TWXgfAVDQzijzj6w68dGvyrFVz_t5mkki.jpg",
         editedImages: [
@@ -749,7 +749,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482878/Jammal/MEN/EwO9XFJOL03PxifZHNRAnESDSP7CsltpwmVw24gg_qddwjn.jpg",
         editedImages: [
@@ -824,7 +824,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482893/Jammal/MEN/rVJ5Z4UOKavPQYmt7fSEx56kHQ54Qo0fUr8L3wZB_sulejm.jpg",
         editedImages: [
@@ -899,7 +899,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482924/Jammal/MEN/nFdoi6sPQCwaCdHkAfXGZ8zQhDPFpFpRp6j4IxQ9_ntngst.jpg",
         editedImages: [
@@ -974,7 +974,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482936/Jammal/MEN/oO334uMkLXhqGgqEuVsmYLOqcNXaPIfd78GhnOj4_kryisy.jpg",
         editedImages: [
@@ -1049,7 +1049,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688764129/Jammal/MEN/wBNWW0wtcEUb8yVkvrgzF7vuyjImyblRN6UyHhDB_ngtyyj.png",
         editedImages: [
@@ -1124,7 +1124,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688764034/Jammal/MEN/buHv1wc2SSrQlhUwd95hTytTE4JS6DSjMck62WgI_swhkoh.jpg",
         editedImages: [
@@ -1199,7 +1199,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688482952/Jammal/MEN/yQje15SzkOGslbQ6dIiLmUwaov95U9zKjEmYH6AA_junrvn.jpg",
         editedImages: [
@@ -1274,7 +1274,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
         editedImages: [
@@ -1349,7 +1349,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483180/Jammal/MEN/Ly9jq6DwNfFlyO96TA49toDDh4YZDKAnbAPyNqlD_wqrpac.jpg",
         editedImages: [
@@ -1424,7 +1424,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483206/Jammal/MEN/1kIGILlmM4ad97loET02SSXotIt5jhOilC7GKWhl_p8uqdg.jpg",
         editedImages: [
@@ -1499,7 +1499,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
         editedImages: [
@@ -1575,7 +1575,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -1608,7 +1608,10 @@ const myTest = [
           " الخامه قطن إصبن",
           " الطول ٧٥سم المقاس وان سيز ل ٨٠ك",
         ],
-        showTable: false,
+        size: ["وان سيز", "وان سيز"],
+        colors: ["أسود", "أسود"],
+        available: ["متوفر", "متوفر"],
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483297/Jammal/Women/YQlA9bcdlpxi13ZLeOjbYq6HWXHuM6zbZw7qRTRe_eto815.jpg",
         editedImages: [
@@ -1634,7 +1637,10 @@ const myTest = [
           " الخامه اسكوبا كريب",
           " المقاس وان سيز ل ٨٠ك",
         ],
-        showTable: false,
+        size: ["وان سيز", "وان سيز"],
+        colors: ["أسود", "أسود"],
+        available: ["متوفر", "متوفر"],
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483304/Jammal/Women/xvGsR3GLoRrXhNeabjME6q8Za1XWTQHu6MXkssXO_zp3vvc.jpg",
         editedImages: [
@@ -1663,7 +1669,10 @@ const myTest = [
           "الطول ٨٠سم",
           "المقاس وان سيز ل٨٠ك",
         ],
-        showTable: false,
+        size: ["وان سيز", "وان سيز"],
+        colors: ["أسود", "أسود"],
+        available: ["متوفر", "متوفر"],
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483311/Jammal/Women/T4uku2tcdcSPlpGCqPsq43umjVakAo6GUscUFy9i_zzgxbh.jpg",
         editedImages: [
@@ -1693,7 +1702,10 @@ const myTest = [
           "متاح ب الوان العرض كلها",
           "المقاس وان سيز لد٨٠.٨٥ك مرتاح والله مليهولكوا قماش حرفيا",
         ],
-        showTable: false,
+        size: ["وان سيز", "وان سيز"],
+        colors: ["أسود", "أسود"],
+        available: ["متوفر", "متوفر"],
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483318/Jammal/Women/7xXdfB2BynLY9PCSghen5jqazxD284qA8XY5GEfc_po9msp.jpg",
         editedImages: [
@@ -1722,7 +1734,9 @@ const myTest = [
           "المقاس وان سيز ل ٨٠ك مرتاح",
           "كم بمب بشداد من الكم والوسط تقدري تلبسيها بكذا طريقه  جامده جدا",
         ],
-        showTable: false,
+        size: ["وان سيز", "وان سيز"],
+        colors: ["أسود", "أسود"],
+        available: ["متوفر", "متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483325/Jammal/Women/Naz1K1igX8lCykX60kogav3ar3Iv59NnsCgZ8sdc_pkj1e1.jpg",
         editedImages: [
@@ -1752,7 +1766,10 @@ const myTest = [
           "متاح ب الوان العرض",
           "الطول  يلبس ل ١٧٠طول",
         ],
-        showTable: false,
+        size: ["وان سيز", "وان سيز"],
+        colors: ["أسود", "أسود"],
+        available: ["متوفر", "متوفر"],
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483339/Jammal/Women/1lxgF4alyANAZ7V3tAgquAmrVLuehSQO43TEOSZS_xaxxy5.jpg",
         editedImages: [
@@ -1824,7 +1841,7 @@ const myTest = [
           "متوفر",
           "متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688494211/Jammal/Children/IMG_5541_rwxaaz.jpg",
         editedImages: [
@@ -1886,7 +1903,7 @@ const myTest = [
           "متوفر",
           "متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688486638/Jammal/Shoes/Q0r4PxKDQXpLppKYKZpDcrHzeod4wnuJzjrMQlFv_hltlzm.jpg",
         editedImages: [
@@ -1941,7 +1958,7 @@ const myTest = [
           "متوفر",
           "متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688486645/Jammal/Shoes/TkGNxFxONaVWtR7HnIp8PbzBoG0l0ThZ9HltGgsq_j2putu.jpg",
         editedImages: [
@@ -1981,7 +1998,7 @@ const myTest = [
           "متوفر",
           "متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688486653/Jammal/Shoes/S5GrGQjpIhGnixPRfCGtyKRdvOoipkYz5Tc8ZdXd_ucewhl.jpg",
         editedImages: [
@@ -2028,7 +2045,7 @@ const myTest = [
           "متوفر",
           "غير متوفر",
         ],
-        showTable: true,
+        
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688486660/Jammal/Shoes/aXp5KRXBMKJ6UIUlS0tadQJB0ubGYYhUSex80KpF_uxq5gh.jpg",
         editedImages: [
@@ -2064,6 +2081,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2098,6 +2118,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688487163/Jammal/Bags/7t5bJLWUPMljhv84ColFToftsbbRJtNkUFJQ4dA8_novjwb.jpg",
         editedImages: [
@@ -2125,6 +2148,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688487169/Jammal/Bags/00APGIAzgpAZQJ3Nly9lFB1ktuQdZgTM5xEK82OP_ljjyis.jpg",
         editedImages: [
@@ -2154,6 +2180,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688487177/Jammal/Bags/OFwqPqhbHSKK8dKtdLtnV5ruFSHCQGjPTCjzDYx8_qwuj46.jpg",
         editedImages: [
@@ -2183,6 +2212,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688487186/Jammal/Bags/XsAWsMqxE9lP6paWK1nsTSjRyBW3dLy34NMMAmDG_c3uok7.jpg",
         editedImages: [
@@ -2218,6 +2250,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2246,6 +2281,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
         editedImages: [
@@ -2274,6 +2312,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688749538/Jammal/Holder/loading_fjikc2.jpg",
         editedImages: [
@@ -2302,6 +2343,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
         editedImages: [
@@ -2327,6 +2371,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483151/Jammal/MEN/40If2mw36SGk7ySxxwxtenhmOLCNIqcc7OabfLqr_vslzzd.jpg",
         editedImages: [
@@ -2361,6 +2408,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2389,6 +2439,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
         editedImages: [
@@ -2417,6 +2470,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688749538/Jammal/Holder/loading_fjikc2.jpg",
         editedImages: [
@@ -2445,6 +2501,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
         editedImages: [
@@ -2473,6 +2532,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483151/Jammal/MEN/40If2mw36SGk7ySxxwxtenhmOLCNIqcc7OabfLqr_vslzzd.jpg",
         editedImages: [
@@ -2507,6 +2569,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2535,6 +2600,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
         editedImages: [
@@ -2563,6 +2631,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688749538/Jammal/Holder/loading_fjikc2.jpg",
         editedImages: [
@@ -2591,6 +2662,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
         editedImages: [
@@ -2619,6 +2693,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483151/Jammal/MEN/40If2mw36SGk7ySxxwxtenhmOLCNIqcc7OabfLqr_vslzzd.jpg",
         editedImages: [
@@ -2653,6 +2730,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -2681,6 +2761,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483213/Jammal/MEN/WvIIMACL1Jgr6MbjoZLVGjaxJuAT3tVKah7Tt6Kf_z3hzf6.jpg",
         editedImages: [
@@ -2709,6 +2792,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688749538/Jammal/Holder/loading_fjikc2.jpg",
         editedImages: [
@@ -2737,6 +2823,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483169/Jammal/MEN/eKJ7oQBObsyhdloRw4zdD1yNf5uaJjrBB0IVycRM_mfgu3f.jpg",
         editedImages: [
@@ -2765,6 +2854,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483151/Jammal/MEN/40If2mw36SGk7ySxxwxtenhmOLCNIqcc7OabfLqr_vslzzd.jpg",
         editedImages: [
@@ -2799,6 +2891,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688495015/Jammal/Health/IMG_5568_wmdigo.jpg",
         editedImages: [
@@ -2828,6 +2923,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688495208/Jammal/Health/IMG_5551_r5njjt.jpg",
         editedImages: [
@@ -2855,6 +2953,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688495192/Jammal/Health/IMG_5556_ud9nbd.jpg",
         editedImages: [
@@ -2889,6 +2990,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688494624/Jammal/Toys/IMG_5544_rvhikk.jpg",
         editedImages: [
@@ -2917,6 +3021,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688645915/Jammal/Toys/IzzU9uXNo5kQyEyyp3Hm1jblDbrFc8bVPkS65oDk_ed8ovm.jpg",
         editedImages: [
@@ -2946,6 +3053,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688645920/Jammal/Toys/tj3awsl36sKHPPXQPwyAYf7i6dr2FqiqpY0FmNZ8_s2jryw.jpg",
         editedImages: [
@@ -2975,6 +3085,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688645928/Jammal/Toys/ddzgYEtQ6pIA2S4ypXv3wNqLp9neuQW8RaGlzSAe_tpvo6f.jpg",
         editedImages: [
@@ -3003,6 +3116,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688645940/Jammal/Toys/HPb7tP5f6VM53JaSpQqu8GLjUqGv8l8MZs7MNflf_e6jxja.jpg",
         editedImages: [
@@ -3032,6 +3148,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688645954/Jammal/Toys/87XvCnsXClw019AIzV2DxhRN2jxKXdq5uapgdr3O_xyxauc.jpg",
         editedImages: [
@@ -3067,6 +3186,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -3101,6 +3223,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -3135,6 +3260,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -3169,6 +3297,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -3203,6 +3334,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
@@ -3237,6 +3371,9 @@ const myTest = [
           "-الوان ( اسود-رمادي)",
           "مقاسات (41-42-43-44-45)",
         ],
+        size: [],
+        colors: [],
+        available: ["متوفر"],
         image:
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1688483228/Jammal/MEN/lV6D0IKpaP7wRJJ4NNowKHxZdsYAkU7bZ4PYkZUr_teepgs.jpg",
         editedImages: [
