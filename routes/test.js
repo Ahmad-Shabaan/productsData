@@ -4871,11 +4871,11 @@ const myTest = [
         ],
         normalImages: [
           "https://res.cloudinary.com/duc04fwdb/image/upload/v1689806999/Jammal/Shoes/Nature/272884364_279765190867015_337569470006110012_n.jpg_cu4kj0.jpg",
-          "https://res.cloudinary.com/duc04fwdb/image/upload/v1689807022/Jammal/Shoes/Nature/272864681_279765340867000_2942123087014245174_n.jpg_txl784.jpg",
-          "https://res.cloudinary.com/duc04fwdb/image/upload/v1689806999/Jammal/Shoes/Nature/272884364_279765190867015_337569470006110012_n.jpg_cu4kj0.jpg",
-          "https://res.cloudinary.com/duc04fwdb/image/upload/v1689807022/Jammal/Shoes/Nature/272864681_279765340867000_2942123087014245174_n.jpg_txl784.jpg",
-          "https://res.cloudinary.com/duc04fwdb/image/upload/v1689806999/Jammal/Shoes/Nature/272884364_279765190867015_337569470006110012_n.jpg_cu4kj0.jpg",
-          "https://res.cloudinary.com/duc04fwdb/image/upload/v1689807022/Jammal/Shoes/Nature/272864681_279765340867000_2942123087014245174_n.jpg_txl784.jpg",
+          // "https://res.cloudinary.com/duc04fwdb/image/upload/v1689807022/Jammal/Shoes/Nature/272864681_279765340867000_2942123087014245174_n.jpg_txl784.jpg",
+          // "https://res.cloudinary.com/duc04fwdb/image/upload/v1689806999/Jammal/Shoes/Nature/272884364_279765190867015_337569470006110012_n.jpg_cu4kj0.jpg",
+          // "https://res.cloudinary.com/duc04fwdb/image/upload/v1689807022/Jammal/Shoes/Nature/272864681_279765340867000_2942123087014245174_n.jpg_txl784.jpg",
+          // "https://res.cloudinary.com/duc04fwdb/image/upload/v1689806999/Jammal/Shoes/Nature/272884364_279765190867015_337569470006110012_n.jpg_cu4kj0.jpg",
+          // "https://res.cloudinary.com/duc04fwdb/image/upload/v1689807022/Jammal/Shoes/Nature/272864681_279765340867000_2942123087014245174_n.jpg_txl784.jpg",
         ],
       },
       {
